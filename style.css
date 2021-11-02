@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Kanit&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+.navbar-brand{
+  font-family: 'Kanit', sans-serif;
+  font-weight: bold;
+}
+
+.navbar-nav{
+  font-family: 'Kanit', sans-serif;
+  color: black;
+  font-size: 20px;
+}
+
+i {
+  font-size: 20px;
+}
+
+.fa-shopping-cart{
+  color: black;
+}
+
+
+form {
+  font-family: 'Kanit', sans-serif;
+}
+
+.carousel-item {
+  height: 32rem;
+  background: #777;
+  color: white;
+  position: relative;
+}
+.container {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom:50px;
+}
+
+.overlay-image {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.5;
+}
+
+.container3{
+  margin: 40px;
+}
+
+.container4{
+  text-align: center;
+  padding: 60px;
+}
+.text-white{
+    font-family: 'Kanit', sans-serif;
+}
